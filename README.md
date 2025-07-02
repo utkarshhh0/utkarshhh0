@@ -11,7 +11,7 @@ From dissecting systems to designing smarter solutions, I love breaking things o
 - 🧪 Researching on AI system vulnerabilities and LLM behavior
 
 ### 🧰 Tech Playground
-```bash
+
 Linux | Python | Bash | Git | Wireshark | Nmap | Metasploit | OpenAI APIs | AI Research
 
 - 📫 How to reach me @ www.linkedin.com/in/utkarshhh0
