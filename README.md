@@ -1,4 +1,4 @@
-# Hey there 👋
+## Hey there 👋
 
 I'm a curious mind wired for hacking, AI, and building tech that challenges the norm.  
 From dissecting systems to designing smarter solutions, I love breaking things open just to understand how they breathe.
@@ -14,7 +14,9 @@ From dissecting systems to designing smarter solutions, I love breaking things o
 
 Linux | Python | Bash | Git | Wireshark | Nmap | Metasploit | OpenAI APIs | AI Research
 
-- 📫 How to reach me @ www.linkedin.com/in/utkarshhh0
+### 📫 Reach Me
+- @ www.linkedin.com/in/utkarshhh0
+- @ https://devfolio.co/@Utkrshhh
 
 <!---
 utkarshgupta03/utkarshgupta03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
