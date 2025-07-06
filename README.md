@@ -12,7 +12,7 @@ From dissecting systems to designing smarter solutions, I love breaking things o
 
 ### 🧰 Tech Playground
 
-Linux | Python | Bash | Git | Wireshark | Nmap | Metasploit | OpenAI APIs | AI Research
+Linux | Python | Bash | Git | Wireshark | Nmap | Metasploit | AI Research
 
 ### 📫 Reach Me
 - @ www.linkedin.com/in/utkarshhh0
